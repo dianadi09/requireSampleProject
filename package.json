@@ -1,0 +1,14 @@
+{
+  "name": "grunt-supercharge",
+  "version": "0.1.0",
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-browserify": "^5.0.0",
+    "grunt-contrib-jshint": "^0.12.0",
+    "grunt-contrib-uglify": "*",
+    "load-grunt-config": "*"
+  },
+  "dependencies": {
+    "time-grunt": "*"
+  }
+}
